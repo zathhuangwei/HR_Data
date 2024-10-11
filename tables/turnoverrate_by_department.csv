@@ -1,0 +1,14 @@
+department,total_emp,terminated_emp,terminated_emp_ratio
+Engineering,6686,789,0.1180
+"Business Development",1642,172,0.1048
+Sales,1832,212,0.1157
+Services,1686,190,0.1127
+"Product Management",641,73,0.1139
+Accounting,3333,385,0.1155
+Legal,311,42,0.1350
+Marketing,494,48,0.0972
+"Human Resources",1807,215,0.1190
+Training,1692,209,0.1235
+Support,954,113,0.1184
+"Research and Development",1084,133,0.1227
+Auditing,52,9,0.1731
